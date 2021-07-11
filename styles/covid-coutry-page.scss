@@ -1,0 +1,42 @@
+.countryName-name {
+
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 37px;
+    color: #333333;
+    margin-bottom: 23px;
+
+}
+
+.country-page__container{
+    display: flex;
+    flex-direction: column;
+}
+
+.country-page__container p {
+    font-weight: 300;
+    margin-bottom: 14px;
+    font-size: 14px;
+    line-height: 16px;
+    
+}
+
+.countryName-statistics{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.countryName-statistics div{
+    min-width: 250px;
+    // width: 300px;
+    margin-right: 40px;
+}
+
+.countryName-red {
+    color: red;
+}
+
+.country-page-margin-bottom{
+    margin-bottom: 23px !important;
+}
+

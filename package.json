@@ -1,0 +1,22 @@
+{
+  "name": "covid",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "author": "gramm2009",
+  "license": "ISC",
+  "scripts": {
+    "start": "next start",
+    "dev": "next dev",
+    "build": "next build"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "mobx": "^6.3.2",
+    "mobx-react-lite": "^3.2.0",
+    "next": "^11.0.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "sass": "^1.35.2"
+  }
+}
