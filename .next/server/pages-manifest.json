@@ -1,9 +1,9 @@
 {
-  "/404": "pages/404.html",
   "/_app": "pages/_app.js",
   "/_document": "pages/_document.js",
-  "/covid": "pages/covid.js",
+  "/_error": "pages/_error.js",
+  "/404": "pages/404.js",
   "/covid/[country]": "pages/covid/[country].js",
-  "/": "pages/index.html",
-  "/_error": "pages/_error.js"
+  "/": "pages/index.js",
+  "/covid": "pages/covid.js"
 }
