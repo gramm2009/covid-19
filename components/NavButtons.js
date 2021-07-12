@@ -1,4 +1,4 @@
-export default function NavButtons({ letters }) {
+export const NavButtons=({ letters }) => {
     return (
         <div>
             {letters.map((el, i) => {
