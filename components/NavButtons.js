@@ -1,6 +1,6 @@
 export default function NavButtons({ letters }) {
     return (
-        <>
+        <div>
             {letters.map((el, i) => {
                 return (
                     <button className="nav-letter" key={i} id={i + 1}>
@@ -8,6 +8,6 @@ export default function NavButtons({ letters }) {
                     </button>
                 );
             })}
-        </>
+        </div>
     );
 }
