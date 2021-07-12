@@ -5,7 +5,7 @@ import Vector2 from "../components/Vector2";
 import { handlerClick } from "../utils/handleClick";
 import { useState } from "react";
 import { resetStyle } from "../utils/resetStyle";
-import {NavButtons} from "../components/navButtons";
+import {NavButtons} from "../components/NavButtons";
 import FilteredByInput from "../components/FilteredByInput";
 import FilteredByLetter from "../components/FilteredByLetter";
 import Layout from "../components/Layout";
