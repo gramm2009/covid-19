@@ -1,12 +1,8 @@
 export const changeBGC = (newId, oldId) => {
-    console.log(newId+'  newId');
 
-
-    console.log(oldId+'  oldId');
  
 
     if (newId === oldId) {
-        console.log("ОНИ ОДИНАКОВЫ");
         return newId;
     } else {
         let clickElement = document.getElementById(newId);
